@@ -1,0 +1,6 @@
+ini teks yang banyak 
+karakter dan 
+barisnya
+AKHIR
+\n
+
